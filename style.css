@@ -91,7 +91,7 @@ body.dark{
 }
 
 .sidebar .text{
-    font-size: 17px;
+    font-size: 25px;
     font-weight: 500;
     white-space: nowrap;
     opacity: 1;
@@ -293,7 +293,7 @@ body.dark .switch::before{
     transition: var(--tran-05);
 }
 .home .text{
-    font-size: 10px;
+    font-size: 17px;
     color: var(--text-color);
     padding: 12px 60px;
 }
